@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Shojumaru&family=Stylish&display=swap');
+
+#hero{
+	background-image: url("../img/backgroung.png");
+	background-size: cover;
+	background-position: center;
+	padding: 20% 0;
+	text-align: center;
+	color: #FFAC2C;
+	font-family:Shojumaru; 	
+}
+
+.btn-primary {
+	background-color: #FFAC2C;
+	text-align: center;
+	font-weight: 500;
+	color:#FFFAFA;
+}
+
+.btn-primary:hover{
+	background-color: var(--color-boton-hover);
+	font-family:Nanum Pen script; 
+}
+
+.bordecito{
+	border: 2px solid #FFAC2C;
+	width: 60px;
+	padding: 3%;
+	
+}
+#services{
+	padding: 150px 0;
+	color:#222222;
+	text-align: center;
+	align-content: center;
+	font-family:Nanum Pen script; 
+	
+}
+#questions{
+	background-color: #F9FBF2;
+	padding: 5%;
+	font-family:Nanum Pen script; 
+	
+}
+
+#five{
+	padding: 110px;
+}
+#five li{
+	padding-left: 160px;
+	padding-top: 20px;
+	
+}
+#five p{
+	font-family: 'Stylish';
+	font-size: 15px;}
+#five h2{
+	padding-top: 60px;
+	color: #29373c;
+	font-family: 'Nanum Pen Script';
+	font-size: 50px;
+	}
+
+footer{
+	font-size: 2px;
+	color: #00000;
+	text-align: center;
+	background-color: #FFAC2C;
+	padding: 10%;
+	font-family:Nanum Pen script; 
+}
+
+.fotos{
+  width: 100px; height: 100px;
+}
+	
